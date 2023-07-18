@@ -19,6 +19,7 @@
 #	127.0.0.1       localhost
 #	::1             localhost
 127.0.0.1 www.facebook.com
+127.0.0.1 es-es.facebook.com
 127.0.0.1 www.youtube.com
 172.0.0.1 www.minecraft.net
 127.0.0.1 www.tinder.com
