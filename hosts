@@ -18,3 +18,7 @@
 # localhost name resolution is handled within DNS itself.
 #	127.0.0.1       localhost
 #	::1             localhost
+127.0.0.1 *.facebook.com
+127.0.0.1 *.youtube.com
+172.0.0.1 *.minecraft.net
+127.0.0.1 *.tinder.com
